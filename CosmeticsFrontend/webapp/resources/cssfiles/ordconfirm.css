@@ -1,0 +1,79 @@
+.info{
+	text-align:center;
+	color:blue;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:40px;
+	
+}
+
+.price{
+	border: 2px solid blue;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:30px;
+	text-align:center;
+}
+
+.name{
+	border: 2px solid blue;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:40px;
+	text-align:center;
+	
+}
+
+.prodname{
+	text-align:center;
+	
+}
+.style{
+	border: 3px solid blue;
+	font-size:30px;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+
+	
+}
+
+
+
+.checkout {
+  float: right;
+  border: 0;
+  margin-top: 20px;
+  padding: 6px 25px;
+  background-color: #6b6;
+  color: #fff;
+  font-size: 25px;
+  border-radius: 3px;
+  width:150px;
+}
+ 
+.checkout:hover {
+  background-color: #494;
+}
+ 
+ .removeall {
+  float: right;
+  border: 0;
+  margin-top: 20px;
+  padding: 6px 25px;
+  background-color: #ff8080;
+  color: #fff;
+  font-size: 25px;
+  border-radius: 3px;
+  width:150px;
+}
+ 
+.removeall:hover {
+  background-color:#ff8080;
+}
+
+.bill{
+	text-align:center;
+	color:#800040;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:40px;
+	
+}
+
+
